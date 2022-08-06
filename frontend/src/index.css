@@ -20,12 +20,17 @@ code {
   background-repeat: no-repeat;
   width: 100vw;
   height: 100vh;
+  color: red;
   
 }
 
 .area_size {
-  position: relative;
+  position: block;
   align-self: center;
   justify-content: center;
   color: hsl(189, 100%, 50%);
+}
+
+.PhoneInputInput{
+  box-sizing: border-box;
 }
