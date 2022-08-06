@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* APP */
+.App{
+  background-image: url(./assets/people.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  
+}
+
+.area_size {
+  position: relative;
+  align-self: center;
+  justify-content: center;
+  color: hsl(189, 100%, 50%);
+}
